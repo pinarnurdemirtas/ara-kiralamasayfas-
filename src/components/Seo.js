@@ -5,7 +5,7 @@ function SEO() {
     "@context": "https://schema.org",
     "@type": "CarRental",
     "name": "Kırklareli Araç Kiralama",
-    "url": "https://seninsiten.com",
+    "url": "https://www.xn--krklareliarakiralama-f1b03n.com/",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Kırklareli",
