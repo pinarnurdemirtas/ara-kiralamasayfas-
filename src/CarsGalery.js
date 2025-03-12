@@ -86,14 +86,14 @@ const CarGallery = () => {
     
     <div style={{ padding: "0px" }}>
       <Helmet>
-        <title>Kırklareli Araç Kiralama - En Uygun Fiyatlarla Araba Kirala</title>
+        <title>Kırklareli Araç Kiralama | En Uygun Fiyatlarla Araba Kirala</title>
         <meta name="description" content="Kırklareli araç kiralama hizmetleri ile uygun fiyatlı ve konforlu arabalar kiralayın. Geniş araç filomuzla 7/24 hizmetinizdeyiz." />
         <meta name="keywords" content="Kırklareli araç kiralama, Kırklareli araba kiralama, Uygun fiyatlı araç kiralama, Günlük araç kiralama, Kırklareli oto kiralama" />
         <meta name="author" content="Tiger Oto,Tiger Rent A Car" />
         <meta property="og:title" content="Kırklareli Araç Kiralama - En Uygun Fiyatlarla Araba Kirala" />
         <meta property="og:description" content="Kırklareli'de araba kiralama mı arıyorsunuz? Ekonomik ve lüks araç seçenekleriyle en iyi fiyat garantisi sunuyoruz!" />
         <meta property="og:image" content="URL_TO_YOUR_COVER_IMAGE" />
-        <meta property="og:url" content="https://seninsiten.com" />
+        <meta property="og:url" content="https://www.xn--krklareliarakiralama-f1b03n.com/" />
         <meta name="robots" content="index, follow" />
       </Helmet>
       <Header />
